@@ -145,7 +145,7 @@ weighted avg       0.90      0.90      0.90     10000
 # Installation:
 open command prompt ant type the following command:
 ```
-git clone https:/Mahnoor123-Fatima/github.com//Image-Classifier-for-Fashion_MNIST-Dataset.git
+git clone https://github.com/Mahnoor123-Fatima/Image-Classifier-for-Fashion_MNIST-Dataset.git
 ```
 
 # Enjoy!
